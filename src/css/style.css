@@ -14,11 +14,11 @@ body {
  background-attachment: fixed;
  min-height: 700px;
 }
-.dark-overlay{
+#home-section .dark-overlay{
   background: rgba(0,0,0,0.7);
   min-height: 700px
 }
-.fa{
+#home-section .fa{
   background: #fff;
   color: #008ed6;
   padding: 4px;
@@ -31,5 +31,14 @@ body {
 .home-inner{
   padding-top: 150px;
   padding-bottom: 50px;
+}
+#explore-main-section .fa{
+  
+    background: #333;
+    color: #fff;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px;
+  
 }
 
