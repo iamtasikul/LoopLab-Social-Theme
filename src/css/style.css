@@ -50,6 +50,15 @@ body {
   border-radius: 5px;
 
 }
+#share-main-section .fa{
+  
+  background: #333;
+  color: #fff;
+  padding: 4px;
+  font-size: 30px;
+  border-radius: 5px;
+
+}
 
 @media(max-width:760px)
 {
